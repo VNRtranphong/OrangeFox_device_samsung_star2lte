@@ -1,1 +1,1 @@
-# OrangeFox_device_samsung_star2lte
+# android_device_samsung_star2lte
